@@ -38,7 +38,7 @@ Clone down this repository, and run the python script.
 
 Step 1. Open CMD/Terminal.
 Step 2. Browse to the correct folder using 'cd' command.
-Step 3. Run - 'python checkmypass.py <_password_> <or> <_list_of_passwords_seperated_with_spaces>'
+Step 3. Run - 'python checkmypass.py <_password_> <or> <_list_of_passwords_seperated_with_spaces_>'
 
 
 ### Show your support
